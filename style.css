@@ -154,7 +154,7 @@ a {
 }
 
 .eyebrow,.section-index,.project-label,.hero-meta,.card-top,.project-side>span,.coming-label {
-  font-size: 10px;
+  font-size: 13px;
   letter-spacing: 1.7px;
   font-weight: 700;
   color: #a69bb7;
@@ -167,8 +167,8 @@ a {
 }
 
 .status-dot {
-  width: 7px;
-  height: 7px;
+  width: 5px;
+  height: 5px;
   border-radius: 50%;
   background: #a78bfa;
   box-shadow: 0 0 14px #a78bfa;
